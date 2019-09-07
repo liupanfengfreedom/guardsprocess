@@ -1,6 +1,0 @@
-E:\VsProjects\guardsprocess\guardsprocess\bin\Release\guardsprocess.exe.config
-E:\VsProjects\guardsprocess\guardsprocess\bin\Release\guardsprocess.exe
-E:\VsProjects\guardsprocess\guardsprocess\bin\Release\guardsprocess.pdb
-E:\VsProjects\guardsprocess\guardsprocess\obj\Release\guardsprocess.csproj.CoreCompileInputs.cache
-E:\VsProjects\guardsprocess\guardsprocess\obj\Release\guardsprocess.exe
-E:\VsProjects\guardsprocess\guardsprocess\obj\Release\guardsprocess.pdb

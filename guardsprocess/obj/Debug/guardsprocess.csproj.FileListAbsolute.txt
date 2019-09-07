@@ -1,7 +1,0 @@
-E:\VsProjects\guardsprocess\guardsprocess\obj\Debug\guardsprocess.csproj.CoreCompileInputs.cache
-E:\VsProjects\guardsprocess\guardsprocess\bin\Debug\guardsprocess.exe.config
-E:\VsProjects\guardsprocess\guardsprocess\bin\Debug\guardsprocess.exe
-E:\VsProjects\guardsprocess\guardsprocess\bin\Debug\guardsprocess.pdb
-E:\VsProjects\guardsprocess\guardsprocess\obj\Debug\guardsprocess.exe
-E:\VsProjects\guardsprocess\guardsprocess\obj\Debug\guardsprocess.pdb
-E:\VsProjects\guardsprocess\guardsprocess\obj\Debug\guardsprocess.csprojAssemblyReference.cache
