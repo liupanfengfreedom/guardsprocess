@@ -4,3 +4,4 @@ E:\VsProjects\guardsprocess\guardsprocess\bin\Debug\guardsprocess.exe
 E:\VsProjects\guardsprocess\guardsprocess\bin\Debug\guardsprocess.pdb
 E:\VsProjects\guardsprocess\guardsprocess\obj\Debug\guardsprocess.exe
 E:\VsProjects\guardsprocess\guardsprocess\obj\Debug\guardsprocess.pdb
+E:\VsProjects\guardsprocess\guardsprocess\obj\Debug\guardsprocess.csprojAssemblyReference.cache
